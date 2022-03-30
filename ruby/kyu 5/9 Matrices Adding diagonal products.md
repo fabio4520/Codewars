@@ -10,8 +10,11 @@ E.g.
          [ 6,  2, 9,  7, -4],
          [ 1, -2, 4, -2,  6],
          [ 3,  2, 2, -4,  7]]
+
 Let's see how to get this result in the image below:
+
 ![](https://i.imgur.com/MHfydrP.jpeg)
+
 So the value of `sum1 - sum2` is equal to:
 
     1164 - 66 = 1098
@@ -24,5 +27,3 @@ Features of the random tests:
     5 <= dimension <= 25 (python, ruby and COBOL)
     5 <= dimension <= 20 (javascript)
     -10 < M[i,j] < 0 and 0 < M[i,j] < 10
-
-
